@@ -16,6 +16,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/William_Dean_Howells
 description: The story of a defalcating treasurer of a company, and of his flight
   and return.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30108#The-Quality-of-Mercy
 gutenberg_issued: '2009-09-27'
 gutenberg_type: Text
 identifiers:
